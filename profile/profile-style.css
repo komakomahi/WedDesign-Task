@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.bg-ao{
+    background-color: aquamarine;
+}
+
+#text-green{
+    color: rgba(68, 113, 0, 0.393);
+}
+span{
+    border-bottom:double 2px rgba(0, 0, 255, 0.395);
+} 
+
+ul{
+    border: 3px solid rgba(216, 112, 147, 0.454);
+}
