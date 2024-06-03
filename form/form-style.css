@@ -1,0 +1,19 @@
+#small{
+    font-size: 0.7rem;
+}
+
+fieldset{
+    margin: 15px 10px;
+}
+
+input[type]{
+    margin: 5px 1px;
+}
+
+input[type="radio"], input[type="checkbox"], input[type="number"]{
+    margin-right: 10px;
+}
+
+
+
+
