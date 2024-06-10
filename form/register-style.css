@@ -1,12 +1,34 @@
-able, th, td{
-    border: solid 1px black;
-    border-collapse: collapse;
+table{
+    border: solid 2px white;
 }
 
 th, td{
     padding: 10px;
+
 }
 
 th{
     text-align: left;
+    vertical-align: top;
+    color:white;
+    background-color: rgb(109, 168, 188);
+}
+
+td{
+    background-color: lightblue;
+}
+
+span{
+    font-size: 10px;
+    margin: 4px;
+}
+
+.hissu{
+    background-color: red;
+    color: white;
+    border-radius: 30%;
+} 
+
+div{
+    width: 15px;
 }
